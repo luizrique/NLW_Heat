@@ -9,6 +9,7 @@
 - [Sobre](#Sobre)
 - [Instalação](#Instalacao)
 - [Tecnologias](#Tecnologias)
+- [Autor](#Autor)
 
 ---
 
@@ -42,3 +43,8 @@ yarn dev
 - [React.js](https://pt-br.reactjs.org/)
 - [Sass](https://sass-lang.com/documentation)
 - [Node.js](https://nodejs.org/en/docs/)
+
+---
+# Autor
+
+Feito com ♥ by Luiz Henrique. 👋🏻
