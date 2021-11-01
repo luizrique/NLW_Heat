@@ -47,4 +47,4 @@ $ expo start
 
 # Autor
 
-Feito com ❤ por Luiz😁.
+Feito com ♥ by Luiz Henrique. 👋🏻
